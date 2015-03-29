@@ -5,6 +5,6 @@
  - [Unidad 2 - CSS3](https://github.com/CoderHouse/frontend/blob/master/css3.md)
  - [Unidad 3 - SASS](https://github.com/CoderHouse/frontend/blob/master/sass.md)
  - [Unidad 4 - JavaScript](https://github.com/CoderHouse/frontend/blob/master/javascript.md)
- - [Unidad 5 - jQuery]()
+ - [Unidad 5 - jQuery](https://github.com/CoderHouse/frontend/blob/master/jquery.md)
  - [Unidad 6 - Accesibilidad]()
  - [Unidad 7 - Fundamentos Web]()
